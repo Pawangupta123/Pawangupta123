@@ -141,6 +141,12 @@ Production SaaS for research organizations — 9+ modules including records mana
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawangupta123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </p>
 
+<!-- Contribution snake — generated daily by .github/workflows/snake.yml.
+     It appears only AFTER the workflow runs once (Actions tab → "Generate Snake" → Run workflow). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pawangupta123/Pawangupta123/output/snake.svg" alt="contribution snake"/>
+</p>
+
 ---
 
 ### 📫 Reach Me
